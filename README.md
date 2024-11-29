@@ -1,16 +1,16 @@
-# [Your Name] - Portfolio
+# Harsh Chourasiya - Portfolio
 
-Welcome to my portfolio! I am a passionate [Your Profession] with expertise in [Your Passion]. Explore my work, projects, and skills below. Feel free to contact me if you'd like to collaborate or learn more about my work.
+Welcome to my portfolio! I am a passionate in ReactJs .Explore my work, projects, and skills below. Feel free to contact me if you'd like to collaborate or learn more about my work.
 
 ---
 
 ## About Me
 
-Hi, I’m [Your Name], a [Your Profession] with experience in [specific fields or technologies]. I’ve worked on diverse projects, ranging from [type of projects] to [other types of projects], and I am always eager to take on new challenges.
+Hi, I’m Harsh Chourasiya, a ReactJs Developer with experience in Internship in BlackLoop. I’ve worked on diverse projects, ranging fro web's to data Science, and I am always eager to take on new challenges.
 
 I believe in continuous learning, experimenting with new technologies, and creating scalable, performant, and user-friendly solutions. My work is driven by curiosity, attention to detail, and a desire to make a positive impact through technology.
 
-You can reach me via email at [Email Address], or connect with me on [LinkedIn](URL) or [GitHub](URL).
+You can reach me via email at harshchaurasiya063@gmail.com, or connect with me on [LinkedIn] (https://www.linkedin.com/in/harsh-chourasiya-9a775322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 ---
 
@@ -19,13 +19,13 @@ You can reach me via email at [Email Address], or connect with me on [LinkedIn](
 Here’s a breakdown of the key skills I bring to the table:
 
 ### **Programming Languages**
-- [Language 1], [Language 2], [Language 3], [Language 4]
+- Java , HTML, CSS , JS 
 
 ### **Technologies & Frameworks**
-- [Technology 1], [Technology 2], [Framework 1], [Framework 2]
+- ReactJs , Data Science
 
 ### **Tools & Platforms**
-- [Tool 1], [Tool 2], [Tool 3], GitHub, Docker, AWS
+- VSCode, InteliJ Idea, PowerBI, Google Colab, Anaconda, Jupiter, GitHub, 
 
 ### **Soft Skills**
 - Problem Solving, Team Collaboration, Time Management, Adaptability
@@ -34,71 +34,43 @@ Here’s a breakdown of the key skills I bring to the table:
 
 ## Featured Projects
 
-### 1. [Project Title]  
-**Description**: This project is designed to [describe what the project does and its goals]. I used [technologies] to build a responsive and scalable solution that [mention the outcome or solution provided].
+### 1.Portfolio
+Description: My Digital Profile
+Technology: ReactJs , MUI 
+### 2.Amazon User Segmentation
+Description: AUS is used to enhance the experience of amazon user , it’s group the customer on the basis of given input in the form of clusters , and identify that the user is which segment Duration: Feb 2024 – April 2024
+Technology used: Python , Unsupervised Machine Learning(K-means) , Streamlit , PowerBI , HTML , CSS
+### 3.Disease Prediction
+Supervised Machine Learning based this project give the prediction(Accuracy score) of the given input data and show your health score.
+Duration: Jan 2023 – April 2023
+Technology used: Python , Supervised Machine Learning(Classification) , HTML , CSS
+### 4.Tic-Tac-Toe Game
+Description: Tic-Tac-Toe Game using HTML , CSS , JS
+### 5.Rock Paper Scissor Game
+Technology used: HTML , CSS , JS
+### 6.Hotstar Clone
+Technology used: HTML , CSS , JS
+### 7.Currency Converter
+Technology used: JavaScript , Fetching API;s
 
-- **Technologies Used**: [Tech 1], [Tech 2], [Tech 3]
-- **Link to GitHub Repository**: [GitHub Link]
-- **Live Demo**: [Live Demo Link]
-- **Key Features**:
-  - [Feature 1]
-  - [Feature 2]
-  - [Feature 3]
-  - [Feature 4]
-
-[Interactive demo or image carousel showcasing the project, if applicable.]
-
----
-
-### 2. [Project Title]  
-**Description**: [Provide a brief but informative description of the project]. This project aimed to [explain the project goals] and utilized [list key technologies].  
-
-- **Technologies Used**: [Tech 1], [Tech 2], [Tech 3]
-- **Link to GitHub Repository**: [GitHub Link]
-- **Live Demo**: [Live Demo Link]
-- **Key Features**:
-  - [Feature 1]
-  - [Feature 2]
-  - [Feature 3]
-
----
-
-### 3. [Project Title]  
-**Description**: This project focuses on [briefly describe project focus], built using [technologies], and provides [solution/outcome].  
-
-- **Technologies Used**: [Tech 1], [Tech 2], [Tech 3]
-- **Link to GitHub Repository**: [GitHub Link]
-- **Live Demo**: [Live Demo Link]
-- **Key Features**:
-  - [Feature 1]
-  - [Feature 2]
-  - [Feature 3]
-
----
 
 ## Experience
 
-### [Job Title] | [Company Name] | [Start Date] - [End Date]  
-- Led the development of [specific projects or initiatives], including building scalable and maintainable software solutions.
-- Collaborated closely with cross-functional teams including design, product, and QA, resulting in [positive outcome, project success].
-- Implemented [technologies/approaches] that improved [performance, usability, etc.].
-- Contributed to the optimization and refactoring of legacy systems, reducing costs and improving performance by [percentage].
+### 3 months of internship in AllSoft Solution services pvt. Ltd. With IBM
+###	15 days of industrial training in IBM
+###	2 months of share market
 
-### [Job Title] | [Company Name] | [Start Date] - [End Date]  
-- Designed and implemented [feature or functionality], impacting [aspect of user experience/business].
-- Used [tools or technologies] to automate and streamline workflows, increasing productivity by [percentage].
-- Mentored junior developers and contributed to code reviews to maintain code quality and knowledge sharing.
-
----
 
 ## Education
 
-### [Degree] | [University Name] | [Year of Graduation]  
-Relevant Coursework: [Course 1], [Course 2], [Course 3], [Course 4]  
-Skills: [Key skills learned during the degree program]
+### B.Tech | Shri Vaishnav Vidhyapeeth Vishvavidayala | 2020-2024  
+Relevant Coursework: Computer Science, Data Science  
 
-### [Certification or Training] | [Institute Name] | [Year of Completion]  
-Details: [Certification, skills gained, relevance to your field]
+### IBM  Cirtified in Data Science  
+### Internship Certified in AllSoft Solution Services pvt. ltd. With IBM IBM Certified in Data Science
+### IBM Certified in Planning Analytics
+### IBM Certified in Predictive Modeling With IBM SPSS MODELER
+
 
 ---
 
