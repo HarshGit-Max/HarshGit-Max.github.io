@@ -78,7 +78,7 @@ Relevant Coursework: Computer Science, Data Science
 
 I host my projects and personal website through GitHub Pages, which makes my portfolio easily accessible and continuously updated. GitHub Pages enables me to showcase live demos, and interactive elements, and ensure that all my projects are easily shareable. 
 
-- **GitHub Pages Site**: [GitHub Pages Link]
+- **GitHub Pages Site**:
 
 Some advanced features I’ve integrated using GitHub Pages:
 - **Project Demos**: Embedded live project demos directly on my portfolio for an interactive experience.
@@ -92,8 +92,8 @@ Some advanced features I’ve integrated using GitHub Pages:
 Feel free to connect with me!  
 - **Email**: harshchaurasiya063@gmail.com  
 - **LinkedIn**: (https://www.linkedin.com/in/harsh-chourasiya-9a775322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **GitHub**: [Your GitHub URL]  
-- **Website/Portfolio**: [Your Portfolio Website URL]
+- **GitHub**:(https://github.com/HarshGit-Max/HarshGit-Max.github.io/tree/main)  
+- **Website/Portfolio**: 
 
 ---
 
