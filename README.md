@@ -90,8 +90,8 @@ Some advanced features I’ve integrated using GitHub Pages:
 ## Contact
 
 Feel free to connect with me!  
-- **Email**: [Your Email]  
-- **LinkedIn**: [Your LinkedIn URL]  
+- **Email**: harshchaurasiya063@gmail.com  
+- **LinkedIn**: (https://www.linkedin.com/in/harsh-chourasiya-9a775322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - **GitHub**: [Your GitHub URL]  
 - **Website/Portfolio**: [Your Portfolio Website URL]
 
