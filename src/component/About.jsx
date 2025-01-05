@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../images/WhatsApp Image 2024-11-22 at 3.20.57 PM.jpeg";
+import image from "../images/About me.jpg";
 import { Box, Typography } from "@mui/material";
 import Grid2 from "@mui/material/Grid2";
 
